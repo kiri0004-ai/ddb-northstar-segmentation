@@ -1,0 +1,7 @@
+﻿"CampaignID","CampaignName","StartDate","EndDate","ContactChannel","AudienceDefinition","FixedCreativeCost","MediaCost","PlannedContactCost","TotalCampaignCost"
+"CMP001","Winter Win-back","2024-11-01","2024-12-15","Email","Customers inactive for at least 90 days","1200.00","250.00","18.00","1468.00"
+"CMP002","Spring Garden","2025-03-01","2025-04-30","Email","Customers with recorded garden purchase history","950.00","180.00","22.00","1152.00"
+"CMP003","Loyalty Weekend","2025-09-01","2025-09-30","Store","Recorded loyalty members","1600.00","600.00","0.00","2200.00"
+"CMP004","Mobile App Trial","2026-02-01","2026-03-15","Mobile App","Customers with Mobile app as preferred channel","1400.00","350.00","45.00","1795.00"
+"CMP005","Summer Home","2026-06-01","2026-07-15","Email","Customers with recorded home and decor purchases","1100.00","240.00","25.00","1365.00"
+"CMP006","Autumn Preview","2026-09-01","2026-10-01","Mobile App","Active recorded loyalty customers","1350.00","400.00","50.00","1800.00"
